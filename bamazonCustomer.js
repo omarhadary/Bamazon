@@ -10,7 +10,6 @@ var connection = mysql.createConnection({
 //connect to database
 connection.connect(function(err) {
 	if (err) throw err;
-	console.log("connected as id " + connection.threadId);
 });
 //function to display the 10 different products
 var itemsForSale = function() {
