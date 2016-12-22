@@ -13,7 +13,7 @@ A database is created to store the inventory and includes 10 different products 
 
 ### Demo
 
-A video walkthough can be found here https://youtu.be/jT2KbI3Oas4
+A video walkthough can be found here https://www.youtube.com/watch?v=NX9HI95i0es&feature=youtu.be
 
 ### Tech
 
